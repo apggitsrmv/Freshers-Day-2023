@@ -1,0 +1,24 @@
+Stage 1:
+https://wasd.netlify.app/
+
+Stage 2:
+https://pukkawordbeater.netlify.app/game.html
+
+Stage 3:
+https://www.eletypes.com/
+
+Stage 4:
+https://mian-ali.github.io/SpeedTyping-master-Game/
+
+Stage 5 :
+https://lukeathedev.github.io/typing_test/
+
+
+Dummy Flash:
+https://kaiwalyakoparkar.github.io/flashtype/
+
+Statics
+https://eben-vranken.github.io/statistics
+
+QUIZ:
+https://jpanakkal22.github.io/code_quiz/
